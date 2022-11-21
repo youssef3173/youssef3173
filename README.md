@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youssef3173
-- 👀 I’m interested in Computer Vision, Deep Learning and Artificial Intellegence in general,
+- 👀 I’m interested in Computer Vision, Deep Learning and Artificial Intelligence in general,
 
 
 
